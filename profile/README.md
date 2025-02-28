@@ -6,6 +6,8 @@ The Agentics Foundation is a vibrant community and the literal foundation for in
 
 ## Site
 🚀 https://agentics.org
+👩‍🏫 https://agentics.org/membership
+🦄 https://agentics.org/dashboard
 
 ## Our Vision
 
