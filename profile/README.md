@@ -5,7 +5,7 @@
 The Agentics Foundation is a vibrant community and the literal foundation for innovation and collaboration in the field of agent-based AI systems. By bringing together forward-thinking individuals and organizations, we empower members to design, deploy, and manage autonomous agents that enhance human potential through intuitive, accessible interfaces.
 
 ## Site
-🚀 htts://agentics.org
+🚀 https://agentics.org
 
 ## Our Vision
 
