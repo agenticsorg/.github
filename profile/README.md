@@ -8,8 +8,8 @@ The Agentics Foundation is a vibrant community and the literal foundation for in
 - 🚀 [Agentics Foundation](https://agentics.org)
 - 👩‍🏫 [Membership](https://agentics.org/membership)
 - 🦄 [Dashboard](https://agentics.org/dashboard)
-- [Discord][https://discord.agentics.org]
-- [Learning Community Platform][https://community.agentics.org]
+- [Discord](https://discord.agentics.org)
+- [Learning Community Platform](https://community.agentics.org)
 
 ## Our Vision
 
